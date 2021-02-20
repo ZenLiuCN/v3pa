@@ -1,0 +1,15 @@
+.idea/
+target/
+**/target/*
+*.iml
+.project
+.classpath
+.vscode/*
+.settings/*
+**/.settings/*
+*.log
+*.csv
+.backups/
+tools/*.js
+lib/*.min.js
+lib/vue3-sfc-loader.js
