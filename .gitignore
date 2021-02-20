@@ -11,5 +11,8 @@ target/
 *.csv
 .backups/
 tools/*.js
-lib/*.min.js
-lib/vue3-sfc-loader.js
+**/lib/*.min.js
+**/lib/vue3-sfc-loader.js
+*.7z
+*.gz
+**/index2.html
